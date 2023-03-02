@@ -1,0 +1,13 @@
+city,country,year,population
+Berlin,Germany,2023-01-01,2085
+Berlin,Germany,2022-01-01,2085
+Berlin,Germany,2021-01-01,2085
+London,UK,2023-01-01,2031
+London,UK,2022-01-01,2231
+London,UK,2021-01-01,2531
+New York,USA,2023-01-01,1963
+New York,USA,2022-01-01,1863
+New York,USA,2021-01-01,1763
+San Francisco,USA,2023-01-01,1992
+San Francisco,USA,2022-01-01,2092
+San Francisco,USA,2021-01-01,2192
