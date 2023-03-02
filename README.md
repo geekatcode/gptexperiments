@@ -1,2 +1,3 @@
 # Generating SQL queries using LLM
-Experiments with ChatGPT using Langchain and Vector stores
+
+Test out different query conditions to see how well does GPT generate results
